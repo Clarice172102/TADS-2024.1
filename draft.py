@@ -1,2 +1,3 @@
-2 + 2 
-18 + 25 
+from my_functions.examples import create_example
+
+create_example()
